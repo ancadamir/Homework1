@@ -1,0 +1,56 @@
+3. Exercise #3 : Defect reporting
+In you opinion, when reporting a bug, what would you include in the given report? (name, description, date, etc).
+Feel free to think of any relevant fields that may help with identifying the bug and making it understandable for the entire team.
+Design a template for a bug report.
+?	An identification number for the bug;
+?	Representative title for the bug;
+?	Set up the priority and severity for the bug;
+?	Short description;
+?	Full description :
+-when the bug occurs;
+-where the bug occurs;
+-in which product I found this bug;
+-the product version;
+-mention the hardware platform where I found this bug;
+ -mention all the operating systems where I found the bug;
+- mention the steps to reproduce the bug;
+-add a record or a screenshot with the bug to be easy to identify;
+-expected result: How the application should behave on the above-mentioned steps;
+-actual result: What is the actual result of running the above steps i.e. the bug behavior;
+-the report types (Coding error, Design error, New Suggestion, Documentation issue, Hardware problem) ;
+-if the bug is not permanently, add the cause of it : what action triggers the problem;
+-what functions are affected by the bug : the bug can be standalone (in the end of the process) or in the middle of the process, when the application stops and the customer is not able to finish the process ;
+-the bug appears on all the platforms on which the application is running or is an isolated case;
+?	How I created the test;
+?	How I ran the test;
+?	How it affects the application;
+?	How it affects the customer, the client and the company;
+?	Conclusion;
+?	Dedicated team;
+
+TEMPLATE FOR THE BUG
+BUG ID
+?	 An identification number for the bug:
+?	Representative title for the bug:
+?	Reporter:
+?	Data:
+
+BUG OVERVIEW
+?	Short description:
+?	Screenshot/recorder:
+?	URL:
+ENVIRONMENT
+?	Platform:
+?	Operating system:
+?	Browser:
+BUG DETAILS
+?	The steps to reproduce the bug:
+?	Expected result:
+?	Actual result:
+?	Description:
+BUG TRACKING
+?	Priority:
+?	Severity:
+?	Assigned to:
+NOTES
+?	Notes:
