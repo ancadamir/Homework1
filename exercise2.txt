@@ -1,0 +1,112 @@
+2. Exercise #2 : Writing test scenarios - 30 minutes
+Create test cases for a mobile app(for reference you can use shazam app, the song discovery feature, sharing the song through social media apps & lyrics being displayed on the device)
+	- here include elements like priority of considered tests (prioritization - most important tests are done first - slide 11)
+	- acceptance data (slide 11)
+	- think of acceptance criteria, coverage criteria (slide 11)
+	- consider everything :) 
+
+I. SHAZAM APPLICATION - FUNCTIONAL TEST (10 MOST IMPORTANT) -include customer testing requirements
+T1.DOWNLOAD 
+?	For IOS device : The application is downloading successfully FROM APPSTORE 
+?	For Android device: : The application is downloading successfully FROM MAGAZINPLAY
+?	For Windows device: : The application is downloading successfully FROM MICROSOFT STORE
+T1. SUCCESSED
+
+T2.INSTALL
+?	For IOS device : The application is installing successfully 
+?	For Android device : The application is installing successfully 
+?	For Windows device : The application is installing successfully 
+T2.SUCCESSED
+
+T3.OPEN
+?	For IOS device : The application is opening successfully 
+?	For Android device : The application is opening successfully 
+?	For Windows device : The application is opening successfully 
+T3.SUCCESSED
+
+T4. INTERNET CONNECTION (Wi-Fi , Mobile Data)
+?	For IOS device on Wi-Fi: The application connects successfully to the internet
+?	For IOS device on Mobile Data: The application connects successfully to the internet
+?	For Android device on Wi-Fi: The application connects successfully to the internet
+?	For Android device on Mobile Data: The application connects successfully to the internet
+?	For Windows device on Wi-Fi: The application connects successfully to the internet
+?	For Windows device on Mobile Data: The application connects successfully to the internet
+T4.SUCCESSED
+
+T5.DISCOVERY SONG - tested for mobile device /  computer/ audio system - client request
+?	For IOS device : The application successfully discovers the song I am looking for using as the source of the song another mobile device /  computer/ audio system
+?	For Android device : The application successfully discovers the song I am looking for using as the source of the song another mobile device /  computer/ audio system
+?	For Windows device : The application successfully discovers the song I am looking for using as the source of the song another mobile device /  computer/ audio system
+T5.SUCCESSED 
+
+T6.SHARING THE SONG THROUGH SOCIAL MEDIA APPS -tested for Facebook, Twitte,Messanger,Instagram,E-mail,Message,Viber, WhatsApp,Line
+?	For IOS device : The application successfully share the song on Facebook, Twitte,Messanger,Instagram,E-mail,Message,Viber, WhatsApp,Line
+?	For Android device : The application successfully share the song on Facebook, Twitte,Messanger,Instagram,E-mail,Message,Viber, WhatsApp,Line
+?	For Windows device : The application successfully The application successfully share the song on Facebook, Twitte,Messanger,Instagram,E-mail,Message,Viber, WhatsApp,Line
+T6.SECCESSED
+
+T7. DISPLAY LYRICS
+?	For IOS device : The application successfully display the lyrics on the device
+?	For Android device :  The application successfully display the lyrics on the device
+?	For Windows device :  The application successfully display the lyrics on the device
+T7.SUCCESSED
+
+T8.ADD SONGS TO PLAYLIST
+?	For IOS device : The application successfully add the songs to the playlist
+?	For Android device :  The application successfully add the songs to the playlist
+?	For Windows device :  The application successfully add the songs to the playlist
+T8.SUCCESSED
+
+T9.SAVE THE SONGS I AM LOOKING FOR
+?	For IOS device : The application successfully save the songs on the shazam list
+?	For Android device :  The application successfully save the songs on the shazam list
+?	For Windows device :  The application successfully save the songs on the shazam list
+T9.SUCCESSED
+
+T.10 ACCESS CAMERA TO SHAZAM
+?	For IOS device : The application successfully access the camera to shazam
+?	For Android device :  The application successfully access the camera to shazam
+?	For Windows device :  The application successfully access the camera to shazam
+T10.SUCCESSED
+
+I. SHAZAM APPLICATION - DESIGN TEST (5 MOST IMPORTANT) -include customer testing requirements
+T1.THE ICON
+The icon meets the conditions required by the client and looks identical on all devices.
+T1.SUCCESSED
+
+T2.THE LOGO
+The icon meets the conditions required by the client and looks identical on all devices.
+The name if the application respect the colour : white and is written correctly.
+T2.SUCCESSED
+
+T3.FIRST PAGE APPEARANCE
+?	Backgroung color: Blue 
+Text color :White
+?	Right corner up:Symbol + Text: "My Shazam"
+Color: White
+?	Left corner up: Symbol + Text:"Discover"
+Color: White
+?	Up in the Middle: Scrolls bar 
+Color: White
+?	Center : Shazam symbol + Text:"Type to Shazam 
+Color: White
+T3.SUCCESSED
+
+T4.SECONDARY PAGE A (SCROLLS TO THE LEFT)
+Name: "My Shazam"
+?	First item: "Shazams"
+?	Second item:"Artists"
+?	Third item: "Playlist for you"
+?	Fourth item: "Recently Shazamed"
+T4.SECCESSED
+
+T5.SECONDARY PAGE B(SCROLLS TO THE RIGHT)
+Name: "Discover"
+?	Updates
+?	Advertisement
+T5.SUCCESSED
+
+
+
+
+
