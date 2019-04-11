@@ -1,0 +1,21 @@
+4. Exercise #4: Providing suggestions
+Providing suggestion to improve quality or user experience is the extension of software testing job. So why not try that?
+Can you tell how user experience can be improved for the following sign in page?
+
+1. adding the title of the application
+2. adding a short text with the instruction: "In order to connect to TEST APPLICATION you need an account"
+The logging options displayed are not very explicit. I would prefer to look like this:
+2.1. If you have an account, in order to log in, please add your e-mail address and the password.
+2.2. If you don't have an account, please create one using your e-mail address.
+Add your e-mail address :
+Set a password : 
+(password security requirements)
+
+I prefere to delete the question :" Do you have password?" because is not very clear . 
+If you have an e-mail address that means you have a password - for the e-mail. This password is not reconized by the system if you are a new user (because the customer can set a different password for the TEST APPLICATION account or even if it chooses the same password as the e-mail, it is still not in the system ) , but you add it because you have one. (now the user is confused ).
+If you are a new user and the system reconize the password (your e-mail password), that means the security system is not working. You are able to connect with any e-mail account without being registred.
+
+3. If the user chose the option : "No, I am a new customer " he needs an option to create an account. 
+4. I prefere to change the button and to add a simple on : "Sign In "
+The button : " Sign in on our secure server" it may seem strange to an inexperienced customer.
+ In my opinion, the home page should look like this - see the "Homework I.4.jpeg"
