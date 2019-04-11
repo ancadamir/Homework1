@@ -1,0 +1,36 @@
+Homework #1
+
+5. Exercise #5: SDLC & Project Management
+Consider you have a small software agency that it's main business is transforming ideas into digital identities. Please come with a solution on how you would do the project discovery phase (gather business knowledge from the client) and translate that to your employees.
+Considering the SDLC cycle and the information you have learned in the last presentation, please assign roles and tasks to your team of 5 people. (consider you have 5 employees, you may assign them any roles you desire)
+
+In order to finish the project the design process should have five phases: discover (project manager and architect), define (project manager,architect and analyst), develop (developer), test(tester), deliver and maintenance ( all five).
+Team members & roles :
+1.Project Manager & Strategist
+Project manager duties: develop a project plan, manage deliverables according to the plan, recruit project staff, lead and manage the project team, determine the methodology used on the project, establish a project schedule and determine each phase, assign tasks to project team members.
+2.Architect & Designer
+The designer is responsible for understanding the business requirements and designing a solution that will meet the business needs. There are many potential solutions that will meet the client’s needs. The designer determines the best approach. A designer typically needs to understand how technology can be used to create this optimum solution for the client. The work of the designer is then handed off to the programmers and other people who will construct the solution based on the design specifications.
+3.Analyst / Business Analyst
+The Analyst is responsible for ensuring that the requirements of the business clients are captured and documented correctly before a solution is developed and implemented.
+4.Developer
+The Developer is responsible for the actual building of the solution. He creates the code following the instructions and customer requirements.
+5.Tester
+The Tester ensures that the solution meets the business requirements and that it is free of errors and defects. ( as much as is possible)
+Project discovery phase:
+The client discovery process should be run by Project manager, the Architect and the Analyst.
+They  should be able to translate this session into a strategic document, to understand the client requirements and translate that to the developer and tester.
+They should understand exacly what the customers wants ( and to explain to the customer step by step the process - sometimes the customer is not an IT person and he needs to understand what involves its requirements ) .
+They must anticipate the needs of the customer , to ask concrete questions about customer expectations ( what he wants, when he wants to - is this possible ? , what are the expectations of the client from the application/ softwaare/ web app ) .
+After they identify the customer expectations, they must:
+- set a budget according to the necessary resources ( including human resources) .
+- make a plan with the steps to follow in order to deliver the app/web app/ etc.
+- forward the information to the developer and tester and  explain to them the customer project.
+-the developer creates the code following the requests. 
+-the tester analyzes the project and designs the tests acording to the management and customer expectations.
+Project lifecycle:
+The first two stepts : requirement analysis and system design will bt coverd by : Project manager with the designer and the analyst . 
+The third step: implementation will be coverd by developer.
+The fourth stept : testing will be cover bt the tester.
+For the deployment and maintenance the entire team's contribution is needed.
+Ofcourse , in order to deliver a high qualily project, all team members must be involved throughout the life cycle of the project.
+
