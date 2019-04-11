@@ -1,0 +1,24 @@
+2.1. Exercise #2.1 : Writing test scenarios - extra - 30 minutes
+Describe ways on how you can test an airport terminal? (free thinking topic, looking for innovative & receptive ideas)
+We divide the terminal into two parts : Before checkin and after checkin
+I. BEFORE CHECKIN
+1.I can test the application that displays the flights ( flights, hours for departures and arrivals, destination)
+The application that display the flights must be updated, must show exacly the hours, the dates, and additional information (ex: the flight is canceled of if the flight is delayed).
+2.I can test the sales departament.
+ The software must show exactly the free places and the full description of the flight.
+The software needs to be updated to the online checkin .
+The software needs to accept fizical checkin.
+The software must show the price and to update it at each price change.
+The software must accept all methods of payment, to convert the money useing the exchange rate updated at each change.
+3.I can test the application that provides details about people who are not allowed to leave the country or enter the country and people wanted by the police or other publicly authorized departments.
+This software application or web application must be updated any time when a new person is added to the list .
+
+II. AFTER CHECKIN
+1.I can test the software responsible for checking luggage.
+The software needs to identify every suspect bag. If system errors occur, dangerous objects may be passed to the filter or normal luggage can be classified as dangerous and this can create suspicions about the security system and inconvenients for the customers.
+2.I can test the software responsible for checking humans.
+Analogue to the luggage filter, but on humans. 
+3.In the waiting room I can test the software application responsible for the payment system because customers can only use their internal storages.
+4.I can test the internet conectivity on the terminal ( for all the devices )
+
+
