@@ -1,0 +1,29 @@
+1. Exercise #1 : Finding defects
+As we previously spoke on our last meeting, we identified that a defect can be described also by a severity and a priority. Please give 3 examples each, where:
+- priority is high & severity is low
+- priority is low & severity is high
+- both are high
+- both are low
+
+I consider the following applications as an example : Youtube, AppStore, An web application for booking .
+- both are high
+For Youtube : The application does not connect to the Internet;
+For AppStore: The cards are not accepted, in order to pay the application;
+For Web App : The system crashes after you made the payment or when you are not able to add the items to the Cart.
+-both are low
+For Youtube : The skip button on advertisments has a delay of maximum one second;
+For AppStore:  The privacy policy of the website has a spelling mistake;
+For Web App : In the end of the page is an empty space;
+
+- priority is high & severity is low
+For Youtube : In the application logo, instead of Youtube it is written YOUtube;
+For AppStore:  The background of the icon has a different color;
+For Web App : The FrontPage logo is spelled wrong;
+In terms of functionality, it is not affecting anything so we can mark as Low Severity, but it has an impact on user experience. This kind of defects needs to be fixed on high priority even though they have very less impact on the application side.
+
+- priority is low & severity is high
+For Youtube : Youtube works perfectly for 100000 sessions but being crash after a higher number of sessions. User attempt higher sessions rarely.
+For AppStore:  An app is displayed for a price but when the client attempts to download the app, there is no costs. (the application was created to be free)
+For Web App : "Web page not found" when user clicks on a link with an external advertisment. 
+
+
